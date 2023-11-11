@@ -1,4 +1,4 @@
-# dna-inheritance
+# blood-inheritance
 Simulate the valid option of blood inheritance for each member of a family.
 
 ## Example
